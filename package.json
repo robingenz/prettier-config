@@ -4,6 +4,9 @@
   "author": "Robin Genz <mail@robingenz.dev>",
   "description": "Shared Prettier config",
   "main": "index.js",
+  "scripts": {
+    "release": "standard-version --skip.changelog"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/robingenz/prettier-config.git"
