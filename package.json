@@ -1,6 +1,6 @@
 {
   "name": "@robingenz/prettier-config",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Robin Genz <mail@robingenz.dev>",
   "description": "Shared Prettier config",
   "main": "index.js",
