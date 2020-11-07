@@ -1,21 +1,23 @@
 {
-    "name": "@robingenz/prettier-config",
-    "version": "0.0.1",
-    "author": "Robin Genz <mail@robingenz.dev>",
-    "description": "Shared Prettier config",
-    "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/robingenz/prettier-config.git"
-    },
-    "keywords": [],
-    "license": "Unlicense",
-    "bugs": {
-      "url": "https://github.com/robingenz/prettier-config/issues"
-    },
-    "homepage": "https://github.com/robingenz/prettier-config",
-    "peerDependencies": {
-      "prettier": "^2.0.0"
-    }
+  "name": "@robingenz/prettier-config",
+  "version": "0.0.1",
+  "author": "Robin Genz <mail@robingenz.dev>",
+  "description": "Shared Prettier config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robingenz/prettier-config.git"
+  },
+  "keywords": [],
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/robingenz/prettier-config/issues"
+  },
+  "homepage": "https://github.com/robingenz/prettier-config",
+  "peerDependencies": {
+    "prettier": "^2.0.0"
+  },
+  "devDependencies": {
+    "standard-version": "^9.0.0"
   }
-  
+}
