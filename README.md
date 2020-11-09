@@ -1,5 +1,7 @@
 # @robingenz/prettier-config
 
+[![npm](https://img.shields.io/github/package-json/v/robingenz/prettier-config)](https://github.com/robingenz/prettier-config/releases)
+
 ## Installation
 
 Install the config:
